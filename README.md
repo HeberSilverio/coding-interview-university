@@ -199,9 +199,9 @@ Eu estou usando a sintaxe de markdown especial do Github, incluindo listas de ta
 [Mais sobre a sintaxe de markdown especial do Github](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
 ## Não ache que você não é inteligente o suficiente
-- Engenheiros de software bem sucedidos são inteligentes, mas muitos são inseguros quanto à própria inteligência.
-- [O mito do Programador Gênio](https://www.youtube.com/watch?v=0SARbwvhupQ)
-- [É perigoso ir sozinho: Batalhando os monstros invisíveis na indústria de Tecnologia](https://www.youtube.com/watch?v=1i8ylq4j_EY)
+- [x] Engenheiros de software bem sucedidos são inteligentes, mas muitos são inseguros quanto à própria inteligência.
+- [x] [O mito do Programador Gênio](https://www.youtube.com/watch?v=0SARbwvhupQ)
+- [x] [É perigoso ir sozinho: Batalhando os monstros invisíveis na indústria de Tecnologia](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 ## Sobre os recursos em vídeo
 
