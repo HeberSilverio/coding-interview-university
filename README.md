@@ -1,25 +1,4 @@
-# Universidade de Entrevista de Programação
-
-> Originalmente eu criei isso como uma pequena lista to-do (a fazer) de tópicos de estudo para se tornar um engenheiro de software, 
-> mas isso cresceu para este imenso acervo que você consulta hoje. Após passar por todo esse plano de estudo, [Eu fui contratado 
-> como Engenheiro de Desenvolvimento de Software na Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)! 
-> Você provavelmente não vai precisar estudar tanto quanto eu. De qualquer maneira, tudo que você precisa está aqui.
->
-> Os itens listados aqui irão preparar você muito bem para uma entrevista em praticamente qualquer empresa de software, 
-> incluindo as gigantes como: Amazon, Facebook, Google ou Microsoft.
->
-> *Boa sorte para todos vocês!*
-
-**Original**: [Inglês](https://github.com/jwasham/coding-interview-university/blob/main/README.md)
-
-- [Acompanhe o progresso da tradução aqui!](https://github.com/jwasham/coding-interview-university/pull/115)
-
-**Tradutores**: [Marlon Aviz](https://github.com/avizmarlon) ([Contribuições](https://github.com/avizmarlon/coding-interview-university/commits/ptbr-translation/translations/README-ptbr.md?author=avizmarlon)), [marceloogeda](https://github.com/marceloogeda) ([Contribuições](https://github.com/avizmarlon/coding-interview-university/commits/ptbr-translation/translations/README-ptbr.md?author=marceloogeda)), [laris151](https://github.com/laris151) ([Contribuições](https://github.com/avizmarlon/coding-interview-university/commits/ptbr-translation/translations/README-ptbr.md?author=laris151))
-
-Traduções:
-
-- [Português Brasileiro](translations/README-ptbr.md)
-
+# Roadmap (roteiro) para engenharia de software
 <div align="center">
 	<hr />
     <p>
@@ -169,48 +148,10 @@ Todas as estruturas de dados que eu já usei eram construídas dentro da linguag
 
 É um longo plano. Você vai levar meses. Se você já é familiarizado com muitas dessas coisas, você vai precisar de muito menos tempo. 
 
-## Como usar
-
-**Tudo abaixo é um esboço**, e você deve abordar os itens em ordem de cima para baixo.
-
-Eu estou usando a sintaxe de markdown especial do Github, incluindo listas de tarefas para verificar o progresso.
-
-**Crie um novo branch para você verificar itens assim, apenas coloque um x entre os colchetes: [x]**
-
-
-    Bifurque (fork) um branch e siga os comandos abaixo
-
-`git checkout -b progress`
-
-`git remote add jwasham https://github.com/jwasham/coding-interview-university`
-
-`git fetch --all`
-
-    Marque todas as caixas com X depois que você completar suas alterações
-
-`git add . `
-
-`git commit -m "Marked x" `
-
-`git rebase jwasham/main `
-
-`git push --force `
-
-[Mais sobre a sintaxe de markdown especial do Github](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
 ## Não ache que você não é inteligente o suficiente
 - [x] Engenheiros de software bem sucedidos são inteligentes, mas muitos são inseguros quanto à própria inteligência.
 - [x] [O mito do Programador Gênio](https://www.youtube.com/watch?v=0SARbwvhupQ)
 - [x] [É perigoso ir sozinho: Batalhando os monstros invisíveis na indústria de Tecnologia](https://www.youtube.com/watch?v=1i8ylq4j_EY)
-
-## Sobre os recursos em vídeo
-
-Alguns vídeos estão disponíveis somente ao ingressar em um curso no Coursera, EdX, ou Lynda.com. Esses são chamados de MOOCs (Curso Online Aberto e Massivo).
-Às vezes as aulas não estão em sessão, nesse caso você terá que esperar alguns meses, portanto não terá acesso até lá. Os cursos da Lynda.com não são gratuitos.
-
-    Eu agradeceria a ajuda de vocês em adicionar recursos públicos gratuitos que sempre estejam disponíveis, como vídeos do YouTube para acompanhar os vídeos de curso online.
-    Eu gosto de usar palestras de universidades;
-
 
 ## Processo de Entrevista e Preparação Geral para a Entrevista
 
