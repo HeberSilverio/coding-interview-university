@@ -324,7 +324,7 @@ Essa lista cresceu por longos meses, e sim, ela meio que saiu do controle!
 
 **Aqui estão alguns erros que eu cometi para que você tenha uma experiência melhor**.
 
-### 1. Você não se lembrará de tudo
+###  [x]  1. Você não se lembrará de tudo
 
 Assisti a horas de vídeos e fiz anotações e meses depois havia muito que eu não lembrava. Eu passei 3 dias revisando minhas anotações e fazendo flashcards para que eu pudesse relembrar.
 
@@ -332,7 +332,7 @@ Por favor, leia para que você não cometa os meus erros:
 
 [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
 
-### 2. Use Flashcards
+### [x]  2. Use Flashcards
 
 Para solucionar o problema, eu fiz um pequeno site de flashcards onde eu poderia adicionar dois tipos de flashcards: genérico e código.  
 Cada cartão tem formatação diferente.
