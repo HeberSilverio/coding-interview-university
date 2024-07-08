@@ -158,8 +158,9 @@ Todas as estruturas de dados que eu já usei eram construídas dentro da linguag
 - [x] [ABC: Esteja sempre codificando](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
 - [x] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1) (Usando O Quadro Branco)
 - [x] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs) (Desmistificando Recrutamento Técnico)
-- [ ] Decifrando A Entrevista de Programação Série 1:
+- [x] Decifrando A Entrevista de Programação Série 1:
     - [ ] [Gayle L McDowell - Cracking The Coding Interview (video)](https://www.youtube.com/watch?v=rEJzOhC5ZtQ) (Gayle L McDowell - Decifrando A Entrevista de Programação - vídeo)
+    parei em 08:23min
     - [ ] [Cracking the Coding Interview with Author Gayle Laakmann McDowell (video)](https://www.youtube.com/watch?v=aClxtDcdpsQ) (Decifrando a Entrevista de Programação com o Autor Gayle Laakmann McDowell - vídeo)
 - [ ] Como Conseguir um Emprego em uma das 4 Gigantes:
     - [ ] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8) (Como Conseguir um Emprego em uma das 4 Gigantes - Amazon, Facebook, Google e Microsoft - vídeo)
@@ -324,16 +325,16 @@ Essa lista cresceu por longos meses, e sim, ela meio que saiu do controle!
 
 **Aqui estão alguns erros que eu cometi para que você tenha uma experiência melhor**.
 
-###  [x]  1. Você não se lembrará de tudo
-
+### 1. Você não se lembrará de tudo
+- [x] 
 Assisti a horas de vídeos e fiz anotações e meses depois havia muito que eu não lembrava. Eu passei 3 dias revisando minhas anotações e fazendo flashcards para que eu pudesse relembrar.
 
 Por favor, leia para que você não cometa os meus erros:
 
 [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/)
 
-### [x]  2. Use Flashcards
-
+### 2. Use Flashcards
+- [x] 
 Para solucionar o problema, eu fiz um pequeno site de flashcards onde eu poderia adicionar dois tipos de flashcards: genérico e código.  
 Cada cartão tem formatação diferente.
 
